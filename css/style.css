@@ -1,0 +1,35 @@
+body{
+margin: 0;
+padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+p,a{
+    font-family: 'Roboto Flex', sans-serif;
+    font-style: normal;
+}
+
+
+
